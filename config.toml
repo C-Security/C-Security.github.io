@@ -1,0 +1,9 @@
+baseURL = 'https://C-Security.github.io/'
+languageCode = 'en-gb'
+title = 'C-Security site'
+theme = "dimension"
+
+[params]
+title = "Cyber Security Blog"
+author = "C-Security"
+description = "Lorem ipsum"
